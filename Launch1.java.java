@@ -7,4 +7,12 @@ public class launch{
 
 //R.N.P
 
-//Created By Rukmoddin Nabab Patel .
+
+class Addition{
+
+public void add(int a ,int b){
+int sum=a+b;
+System.out.println(sum);
+}
+
+}
